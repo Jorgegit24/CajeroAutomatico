@@ -1,0 +1,36 @@
+Saldo actual: $5000
+Depósito realizado: $15000
+Saldo actual: $20000
+Transferencia realizada: $2000
+Saldo después de la transferencia: $18000
+Extracción realizada: $7500
+Saldo actual: $10500
+Saldo actual: $5000
+Depósito realizado: $18500
+Saldo despues del deposito: $23500
+Transferencia realizada: $3500
+Saldo después de la transferencia: $20000
+Extracción realizada: $2000
+Saldo despues de la disposición: $18000
+Saldo actual: $5000
+Depósito realizado: $19500
+Saldo despues del deposito: $24500
+Transferencia realizada: $4000
+Saldo después de la transferencia: $20500
+Saldo actual: $5000
+Depósito realizado: $1
+Saldo despues del deposito: $5001
+Transferencia realizada: $1
+Saldo después de la transferencia: $5000
+Saldo actual: $5000
+Extracción realizada: $1
+Saldo despues de la disposición: $4999
+Saldo actual: $5000
+Depósito realizado: $5000
+Saldo despues del deposito: $10000
+Transferencia realizada: $4500
+Saldo después de la transferencia: $5500
+Extracción realizada: $1000
+Saldo despues de la disposición: $4500
+Extracción realizada: $999
+Saldo despues de la disposición: $3501
